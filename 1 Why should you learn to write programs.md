@@ -1,3 +1,5 @@
+## 1 Why should you learn to write programs
+
 ### Computer Hardware Architecture
 
 **Central Processing Unit (CPU)**: the part of the computer constantly asking "what's next?" Have to know how to talk fast to keep up with the CPU. 
